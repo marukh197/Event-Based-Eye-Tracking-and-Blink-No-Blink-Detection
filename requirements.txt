@@ -1,0 +1,18 @@
+# Core numerical & I/O
+numpy>=1.21.0
+pandas>=1.4.0
+h5py>=3.6.0
+
+# Computer vision / video I/O
+opencv-python>=4.5.5
+matplotlib>=3.5.0
+
+# PyTorch & SNNs
+torch>=1.12.0
+snntorch>=0.3.1
+
+# Web API
+flask>=2.0.0
+
+# AEDAT4 parser (dv-python)
+dv>=1.0.12
